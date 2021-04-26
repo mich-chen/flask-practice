@@ -12,7 +12,7 @@ Author: Michelle Chen
 """
 
 from flask import Flask, Blueprint, render_template, request
-from example_blueprint import example_blueprint
+from apis.example_blueprint import example_blueprint
 
 # set up flask app
 app = Flask(__name__)

@@ -1,6 +1,6 @@
 # Flask practice repo
 
-
+Using Hackbright lab assignment Movie Ratings v2 as practice
 
 #### Running Flask options
 
